@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba", "prueba\prueba.csproj", "{2A430CCD-7272-4F2B-98F2-7B9F7059CE94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen", "examen\examen.csproj", "{0A06CC69-7E13-4F09-BD10-C0ACC6E1A4EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiUnitTest", "MiUnitTest\MiUnitTest.csproj", "{F3426168-E1A5-4C34-8C56-132C23F47561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2A430CCD-7272-4F2B-98F2-7B9F7059CE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A430CCD-7272-4F2B-98F2-7B9F7059CE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A430CCD-7272-4F2B-98F2-7B9F7059CE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A06CC69-7E13-4F09-BD10-C0ACC6E1A4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A06CC69-7E13-4F09-BD10-C0ACC6E1A4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A06CC69-7E13-4F09-BD10-C0ACC6E1A4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A06CC69-7E13-4F09-BD10-C0ACC6E1A4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3426168-E1A5-4C34-8C56-132C23F47561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3426168-E1A5-4C34-8C56-132C23F47561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3426168-E1A5-4C34-8C56-132C23F47561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3426168-E1A5-4C34-8C56-132C23F47561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
